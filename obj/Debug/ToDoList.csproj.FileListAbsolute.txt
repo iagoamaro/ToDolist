@@ -1,0 +1,94 @@
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\csc.exe
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\vbc.exe
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\ToDoList.dll.config
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\ToDoList.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\ToDoList.pdb
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Antlr3.Runtime.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\EntityFramework.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\EntityFramework.SqlServer.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Newtonsoft.Json.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Helpers.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Mvc.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Optimization.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Razor.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.WebPages.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.WebPages.Razor.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\WebGrease.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\EntityFramework.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\EntityFramework.SqlServer.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Helpers.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Mvc.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Optimization.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.Razor.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.WebPages.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\System.Web.WebPages.Razor.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Antlr3.Runtime.pdb
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\bin\Newtonsoft.Json.xml
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\obj\Debug\ToDoList.Migrations.inicio.resources
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\obj\Debug\ToDoList.Migrations._2.resources
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\obj\Debug\ToDoList.dll
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\iago\Documents\Visual Studio 2015\Projects\Solution1\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Projects\Teste\ToDoList\bin\roslyn\csc.exe
+C:\Projects\Teste\ToDoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Teste\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Teste\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Teste\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Teste\ToDoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Teste\ToDoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Teste\ToDoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Teste\ToDoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Teste\ToDoList\bin\roslyn\vbc.exe
+C:\Projects\Teste\ToDoList\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Teste\ToDoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Teste\ToDoList\bin\ToDoList.dll.config
+C:\Projects\Teste\ToDoList\bin\ToDoList.dll
+C:\Projects\Teste\ToDoList\bin\ToDoList.pdb
+C:\Projects\Teste\ToDoList\bin\Antlr3.Runtime.dll
+C:\Projects\Teste\ToDoList\bin\EntityFramework.dll
+C:\Projects\Teste\ToDoList\bin\EntityFramework.SqlServer.dll
+C:\Projects\Teste\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Teste\ToDoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Teste\ToDoList\bin\Newtonsoft.Json.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.Helpers.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.Mvc.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.Optimization.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.Razor.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.WebPages.dll
+C:\Projects\Teste\ToDoList\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Teste\ToDoList\bin\WebGrease.dll
+C:\Projects\Teste\ToDoList\bin\EntityFramework.xml
+C:\Projects\Teste\ToDoList\bin\EntityFramework.SqlServer.xml
+C:\Projects\Teste\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.Helpers.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.Mvc.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.Optimization.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.Razor.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.WebPages.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Teste\ToDoList\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Teste\ToDoList\bin\Antlr3.Runtime.pdb
+C:\Projects\Teste\ToDoList\bin\Newtonsoft.Json.xml
+C:\Projects\Teste\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Projects\Teste\ToDoList\obj\Debug\ToDoList.Migrations.inicio.resources
+C:\Projects\Teste\ToDoList\obj\Debug\ToDoList.Migrations._2.resources
+C:\Projects\Teste\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+C:\Projects\Teste\ToDoList\obj\Debug\ToDoList.dll
+C:\Projects\Teste\ToDoList\obj\Debug\ToDoList.pdb
